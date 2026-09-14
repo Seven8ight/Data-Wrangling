@@ -9,3 +9,5 @@ This analysis was conducted by the following Strathmore CS Students and supervis
 1. Clifford Chiama
 2. Ernest Trevis
 3. Lawrence Muchiri
+
+<img width="720" height="1600" alt="Groupwork-AI assignment" src="https://github.com/user-attachments/assets/43e1189a-afed-4ace-a7b4-1b9069e37ea1" />
